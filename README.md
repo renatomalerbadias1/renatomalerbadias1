@@ -28,5 +28,5 @@ GitHub: github.com/renatomalerbadias1
 
 Site: http://portifoliorenato.azurewebsites.net/
 
-📚 Procurando meu currículo? Me mande um email!
-E-mail:renatomalerbadias1@gmail.com
+📚 Me mande um email!
+E-mail: renatomalerbadias1@gmail.com

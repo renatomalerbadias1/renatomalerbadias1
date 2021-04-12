@@ -8,7 +8,7 @@
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
-Meu nome è Renato Malerba Dias
+# Renato Malerba Dias
 Sou graduado em Analise e desenvolvimento de sistema  
 e atuo desde 2015 na área com desenvolvimento de sistemas .
 Pós em Engenharia de Manutenção pela Universidade Positivo 
@@ -30,3 +30,5 @@ Site: http://portifoliorenato.azurewebsites.net/
 
 📚 Me mande um email!
 E-mail: renatomalerbadias1@gmail.com
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatomalerbadias1&show_icons=true&locale=en" alt="Renato Malerba Dias" />

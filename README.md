@@ -1,12 +1,7 @@
-### Hi there 👋
-
-## helo
 
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/renatomalerbadias1/) <img src="https://komarev.com/ghpvc/?username=renatomalerbadias1a&label=Profile%20views&color=0e75b6&style=social" alt="Renato Malerba Dias " />
-
-![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
 # Renato Malerba Dias
 Sou graduado em Analise e desenvolvimento de sistema  
@@ -17,7 +12,7 @@ Pós em Engenharia de Manutenção pela Universidade Positivo
 
 🌱 Estou estudando atualmente JAVA 
 
-⚙️ Mastering: .JAVA , NETBEANS ,SQL ,C# , SELENIUM,WEBDRIVE ,HTML ,CSS , BOOTSTRAP
+⚙️ Skills: .JAVA , NETBEANS ,SQL ,C# , SELENIUM,WEBDRIVE ,HTML ,CSS , BOOTSTRAP
 
 👯 Para ganhar mais experiência procuro colaborar nos projetos Open Source.
 

@@ -9,5 +9,5 @@
 ## e atuo mais de cinco anos na área com desenvolvimento de sistemas
 ## C# SQL Server .NET MVC WEBFORMS .
 ## Pós em Engenharia de Manutenção pela Universidade Positivo 
-## Forte conhecimento em metodologias ágeis e uma boa experiência como técnico em eletrônica a mais de dez anos atuando com analise de circuitoe desenvolvimentos de testes. Forte conhecimento em inglês.
+
 
